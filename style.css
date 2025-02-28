@@ -5,7 +5,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    background-image: url('C:/Users/LENOVO/Documents/KEVIN/KULIAH/SEMESTER 4/PLATFORM/html/aset/860.jpeg');
+    background-image: url('aset/860.jpeg');
     background-size: cover;
     background-position: center;
 }
@@ -13,7 +13,7 @@ body {
 
 .animated-photo{
     width: auto;
-    height: auto;
+    height: auto; 
     object-fit: cover;
     animation: zoomInOut 5s infinite;
     border-radius: 50%;
